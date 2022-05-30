@@ -1,0 +1,5 @@
+1) GIT BASH
+2) Java script
+3) Types of manual testing
+4) Pyton (maybe)
+5) Selfstuding
