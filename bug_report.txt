@@ -1,1 +1,2 @@
-
+Startig bug report
+bugs 0
